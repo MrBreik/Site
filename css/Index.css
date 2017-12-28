@@ -1,0 +1,45 @@
+header {
+   
+color: lightgreen;
+}
+body {
+	margin:0px;
+	padding:0px;
+	font-family: 'Open Sans', sans-serif;
+	color: lightgreen;
+	background: #353535;
+	font-size: 27px;
+	
+}
+button {
+	margin-top: 15px;
+	font-size: 27px;
+	border: 0px;
+	border-radius: 15px;
+	background-color: white;
+	color: lightgreen;
+	transition: all 0.5s;
+}
+button:hover {
+	background-color: lightgreen;
+	color: white;
+}
+.bg{
+	 position:absolute;
+  	 height:100%;
+ 	 width:100%;
+	 background:url(http://pulson.ru/wp-content/uploads/2014/07/wallpaper-625037.jpg);
+	 opacity: 0.2;
+}
+.content {
+			position: absolute;
+			width:100%;
+			text-align: center;
+		}
+.VK{
+	position: absolute;
+	width:100%;
+	text-align: right;
+	bottom: 15px
+	
+}
